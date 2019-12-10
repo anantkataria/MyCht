@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "560854407309",
+    "firebase_url": "https://mychat-f42ab.firebaseio.com",
+    "project_id": "mychat-f42ab",
+    "storage_bucket": "mychat-f42ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560854407309:android:0de1a7a41ebdf49f12eac4",
+        "android_client_info": {
+          "package_name": "com.anantdevelopers.mychat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560854407309-frkkao3cafsi4crqh1o6olmg09q73l35.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anantdevelopers.mychat",
+            "certificate_hash": "414ec4f8bf3022dfa1b1ae3f75ceff76d3bbebd6"
+          }
+        },
+        {
+          "client_id": "560854407309-c643ppjn06gcotqsmvj18ij4oqss7tih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAh6qQrItqmsHO0O4VpoaCzQ4kGtHk_GTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560854407309-c643ppjn06gcotqsmvj18ij4oqss7tih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
